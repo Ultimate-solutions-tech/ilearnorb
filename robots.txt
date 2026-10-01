@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this example domain before launch.
+Sitemap: https://ilearnorb.example/sitemap.xml

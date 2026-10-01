@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "iLearnOrb — Learn. Grow. Become.",
+  "short_name": "iLearnOrb",
+  "description": "A curated bookshelf with simple WhatsApp ordering in Nigeria.",
+  "lang": "en-NG",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#04112B",
+  "categories": ["education", "shopping", "books"],
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

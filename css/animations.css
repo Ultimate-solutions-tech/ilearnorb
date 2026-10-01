@@ -1,0 +1,49 @@
+/* Motion is progressive: nothing is hidden until observers are ready. */
+@keyframes float-book { 0%,100% { transform: translateY(0) rotate(-9deg); } 50% { transform: translateY(-15px) rotate(-7deg); } }
+@keyframes orbit-drift { 0%,100% { transform: translate3d(0,0,0) scale(1); } 50% { transform: translate3d(25px,-25px,0) scale(1.08); } }
+@keyframes marquee { to { transform: translateX(-50%); } }
+@keyframes skeleton-shine { to { transform: translateX(100%); } }
+@keyframes drawer-in { from { transform: translateX(100%); opacity: .5; } to { transform: none; opacity: 1; } }
+@keyframes drawer-out { to { transform: translateX(100%); opacity: 0; } }
+@keyframes toast-in { from { transform: translateY(15px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes heart-pop { 50% { transform: scale(1.25); } }
+@keyframes ripple { to { transform: scale(4); opacity: 0; } }
+@keyframes word-in { from { opacity: 0; transform: translateY(25px); } to { opacity: 1; transform: none; } }
+@keyframes pulse-ring { 50% { transform: scale(1.06); opacity: .65; } }
+@keyframes orb-draw { from { stroke-dashoffset: 220; } to { stroke-dashoffset: 0; } }
+@keyframes curtain-up { to { transform: translateY(-102%); } }
+@keyframes wave-drift { 50% { transform: translateX(-20px); } }
+@keyframes error-float { 50% { transform: translateY(-12px) rotate(6deg); } }
+@keyframes page-in { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: none; } }
+main { animation: page-in 420ms var(--ease); }
+.page-leaving main { opacity: 0; transform: translateY(-6px); transition: opacity 150ms ease, transform 150ms ease; }
+.motion-ready .reveal { opacity: 0; transform: translateY(24px); transition: opacity 650ms var(--ease), transform 650ms var(--ease); transition-delay: var(--delay, 0ms); }
+.motion-ready .reveal.is-visible { opacity: 1; transform: none; }
+.motion-ready .reveal-scale { transform: scale(.96); }
+.motion-ready .reveal-scale.is-visible { transform: none; }
+.heart-pop { animation: heart-pop 300ms ease; }
+.ripple { position: absolute; width: 70px; height: 70px; margin: -35px; border-radius: 50%; background: rgb(255 255 255 / 35%); pointer-events: none; animation: ripple 600ms ease-out forwards; }
+.hero-word { display: inline-block; animation: word-in 700ms var(--ease) both; animation-delay: calc(var(--word, 0) * 90ms + 130ms); }
+.preloader { position: fixed; inset: 0; z-index: 300; display: grid; place-items: center; background: var(--blue-900); color: var(--white); pointer-events: none; }
+.preloader-inner { text-align: center; }
+.preloader svg { width: 72px; height: 72px; margin: 0 auto 22px; color: var(--cyan); animation: pulse-ring 800ms ease-in-out; }
+.intro-playing .hero-word { animation-play-state: paused; }
+.preloader .orb-line { stroke-dasharray: 220; animation: orb-draw 700ms ease both; }
+.preloader-word { font-family: var(--font-heading); font-size: 28px; font-weight: 700; letter-spacing: -.05em; }
+.preloader-word span { display: inline-block; animation: word-in 300ms ease both; animation-delay: calc(var(--letter) * 45ms + 200ms); }
+.preloader.is-finished { animation: curtain-up 400ms var(--ease) forwards; }
+.preloader small { display: block; margin-top: 12px; color: #B1C4E1; font-size: 10px; letter-spacing: .18em; text-transform: uppercase; }
+.marquee-track { animation: marquee 38s linear infinite; }
+.marquee:hover .marquee-track, .marquee:focus-within .marquee-track { animation-play-state: paused; }
+.wave-divider svg { animation: wave-drift 12s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+  .motion-ready .reveal { opacity: 1; transform: none; }
+  .hero-word { opacity: 1; transform: none; }
+  .hero-orb, .hero-canvas, .preloader, .motion-enable, .marquee-pause { display: none !important; }
+  .hero-art, [data-parallax] { transform: none !important; }
+  .typing-caret { display: none; }
+  .marquee-track { animation: none; }
+  .book-card:hover .cover-wrap { transform: rotate(-5deg); }
+  .ripple { display: none; }
+}
