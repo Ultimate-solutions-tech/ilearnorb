@@ -108,7 +108,7 @@
       description: 'Being open with others can feel risky, yet it often makes deeper connection possible. Brown explores vulnerability, shame and courage in the ways we parent, work and participate in relationships.',
       learn: ['Recognise shame patterns', 'Practise everyday vulnerability', 'Build more courageous connections'], badge: 'New', featured: false, coverColor: 'linear-gradient(145deg, #D9E8FF, #9FBDED)' },
     {
-      id: 31, slug: 'the-psychology-of-money', title: 'The Psychology of Money', author: 'Morgan Housel', image: 'ilearnorb/assets/covers/psychology.jpg', category: 'Finance', categorySlug: 'finance', price: 9000, rating: 4.9,
+      id: 31, slug: 'the-psychology-of-money', title: 'The Psychology of Money', author: 'Morgan Housel', image: 'assets/covers/psychology.jpg', category: 'Finance', categorySlug: 'finance', price: 9000, rating: 4.9,
       description: 'Money decisions are shaped by lived experience as much as spreadsheets. Housel uses short, thoughtful stories to explore patience, uncertainty and the difference between looking wealthy and building financial resilience.',
       learn: ['Recognise financial behaviour', 'Leave room for uncertainty', 'Value patience and flexibility'], badge: 'Bestseller', featured: true, coverColor: 'linear-gradient(145deg, #0B5FFF, #083B9D)' },
     { id: 32, slug: 'the-intelligent-investor', title: 'The Intelligent Investor', author: 'Benjamin Graham', category: 'Finance', categorySlug: 'finance', price: 15000, rating: 4.7,
