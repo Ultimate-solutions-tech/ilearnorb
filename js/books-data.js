@@ -17,7 +17,7 @@
     { name: 'Leadership', slug: 'leadership', icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v9M12 3l8 3-8 3M4 21l8-9 8 9M8 17h8"/></svg>', tagline: 'Lead with clarity and care.', description: 'Grow your ability to earn trust, support teams and take responsibility for meaningful results.' }
   ];
   window.ILO.books = [
-    { id: 1, slug: 'atomic-habits', title: 'Atomic Habits', author: 'James Clear', category: 'Habits', categorySlug: 'habits', price: 8500, rating: 4.9,
+    { id: 1, slug: 'atomic-habits', title: 'Atomic Habits', author: 'James Clear', image: 'assets/covers/atomic-habits.webp', category: 'Habits', categorySlug: 'habits', price: 8500, rating: 4.9,
       description: 'Small improvements can change the direction of an ordinary day. Clear offers a practical framework for shaping your environment and repeating the behaviours that support the person you want to become.',
       learn: ['Design helpful cues', 'Make consistency easier', 'Build identity-based routines'], badge: 'Bestseller', featured: true, coverColor: 'linear-gradient(145deg, #E8F0FF, #AAC9FF)' },
     { id: 2, slug: 'the-power-of-habit', title: 'The Power of Habit', author: 'Charles Duhigg', category: 'Habits', categorySlug: 'habits', price: 8000, rating: 4.7,
@@ -47,7 +47,8 @@
     { id: 10, slug: 'mini-habits', title: 'Mini Habits', author: 'Stephen Guise', category: 'Habits', categorySlug: 'habits', price: 5000, rating: 4.4,
       description: 'Starting can be the hardest part of a worthwhile routine. Guise suggests making the minimum action so manageable that you can practise even on days when energy and motivation are low.',
       learn: ['Lower the starting barrier', 'Practise on difficult days', 'Separate action from motivation'], badge: null, featured: false, coverColor: 'linear-gradient(145deg, #13345E, #256BB4)' },
-    { id: 11, slug: 'deep-work', title: 'Deep Work', author: 'Cal Newport', category: 'Productivity', categorySlug: 'productivity', price: 8500, rating: 4.8,
+    {
+      id: 11, slug: 'deep-work', title: 'Deep Work', author: 'Cal Newport', image: 'assets/covers/deep-work.png', category: 'Productivity', categorySlug: 'productivity', price: 8500, rating: 4.8,
       description: 'Meaningful work needs more than a full calendar. Newport makes a case for distraction-free concentration and outlines ways to protect the attention needed for demanding, valuable tasks.',
       learn: ['Schedule focused work blocks', 'Reduce attention switching', 'Build concentration rituals'], badge: 'Bestseller', featured: true, coverColor: 'linear-gradient(145deg, #0A3D91, #04112B)' },
     { id: 12, slug: 'getting-things-done', title: 'Getting Things Done', author: 'David Allen', category: 'Productivity', categorySlug: 'productivity', price: 9500, rating: 4.6,
