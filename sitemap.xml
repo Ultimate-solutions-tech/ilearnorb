@@ -1,357 +1,357 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ilearnorb.example/index.html</loc>
+    <loc>https://ilearnorb.vercel.app/index.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/catalogue.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/catalogue.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/how-to-order.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/how-to-order.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/about.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/about.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/contact.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/contact.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/wishlist.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/wishlist.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/cart.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/cart.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/faq.html</loc>
+    <loc>https://ilearnorb.vercel.app/pages/faq.html</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=habits</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=habits</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=productivity</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=productivity</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=personal-development</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=personal-development</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=finance</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=finance</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=wealth-creation</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=wealth-creation</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=business</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=business</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=entrepreneurs</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=entrepreneurs</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=relationships</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=relationships</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=faith</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=faith</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/category.html?c=leadership</loc>
+    <loc>https://ilearnorb.vercel.app/pages/category.html?c=leadership</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=1</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=1</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=2</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=2</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=3</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=3</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=4</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=4</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=5</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=5</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=6</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=6</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=7</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=7</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=8</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=8</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=9</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=9</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=10</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=10</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=11</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=11</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=12</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=12</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=13</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=13</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=14</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=14</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=15</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=15</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=16</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=16</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=17</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=17</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=18</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=18</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=19</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=19</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=20</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=20</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=21</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=21</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=22</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=22</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=23</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=23</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=24</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=24</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=25</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=25</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=26</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=26</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=27</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=27</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=28</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=28</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=29</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=29</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=30</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=30</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=31</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=31</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=32</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=32</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=33</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=33</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=34</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=34</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=35</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=35</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=36</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=36</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=37</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=37</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=38</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=38</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=39</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=39</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=40</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=40</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=41</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=41</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=42</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=42</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=43</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=43</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=44</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=44</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=45</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=45</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=46</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=46</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=47</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=47</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=48</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=48</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=49</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=49</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=50</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=50</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=51</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=51</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=52</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=52</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=53</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=53</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=54</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=54</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=55</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=55</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=56</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=56</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=57</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=57</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=58</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=58</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=59</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=59</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=60</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=60</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=61</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=61</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=62</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=62</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=63</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=63</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=64</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=64</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=65</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=65</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=66</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=66</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=67</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=67</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=68</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=68</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=69</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=69</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=70</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=70</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=71</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=71</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=72</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=72</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=73</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=73</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=74</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=74</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=75</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=75</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=76</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=76</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=77</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=77</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=78</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=78</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=79</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=79</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=80</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=80</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=81</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=81</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=82</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=82</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=83</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=83</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=84</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=84</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=85</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=85</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=86</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=86</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=87</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=87</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=88</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=88</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=89</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=89</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=90</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=90</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=91</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=91</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=92</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=92</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=93</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=93</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=94</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=94</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=95</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=95</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=96</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=96</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=97</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=97</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=98</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=98</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=99</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=99</loc>
   </url>
   <url>
-    <loc>https://ilearnorb.example/pages/book.html?id=100</loc>
+    <loc>https://ilearnorb.vercel.app/pages/book.html?id=100</loc>
   </url>
 </urlset>

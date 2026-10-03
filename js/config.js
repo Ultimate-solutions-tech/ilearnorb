@@ -16,7 +16,7 @@
     },
     CURRENCY_SYMBOL: '₦',
     DELIVERY_NOTE: 'Delivery in Ado Ekiti and across Nigeria. Availability, delivery fees and timing are confirmed on WhatsApp before payment.',
-    SITE_URL: 'https://ilearnorb.example/', // Replace with your live domain, including a trailing slash.
+    SITE_URL: 'https://ilearnorb.vercel.app/', // Replace with your live domain, including a trailing slash.
     PRICES_ARE_PLACEHOLDERS: true, // Set false only after checking every price.
     RATINGS_ARE_SAMPLES: true,
     HOURS: 'Mon–Sat, 9am–6pm (WAT)', // Sample hours: confirm before launch.
