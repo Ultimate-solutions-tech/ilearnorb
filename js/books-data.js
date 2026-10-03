@@ -48,7 +48,7 @@
       learn: ['Sales', 'Marketing', 'Selling easily'], badge: null, featured: false, coverColor: 'linear-gradient(145deg, #123B74, #071A3B)'
     },
     {
-      id: 7, slug: 'the-5-am-club', title: 'The 5 AM Club', author: 'Robin Sharma', category: 'Habits', categorySlug: 'habits', price: 7000, rating: 4.3,
+      id: 7, slug: 'the-5-am-club', title: 'The 5 AM Club', author: 'Robin Sharma', image: 'assets/covers/5am.webp', category: 'Habits', categorySlug: 'habits', price: 7000, rating: 4.3,
       description: 'Sharma uses a fictional journey to explore the value of a deliberate morning routine. The book invites you to reserve focused time for movement, reflection and learning before everyday demands take over.',
       learn: ['Plan an intentional morning', 'Balance movement and reflection', 'Protect personal learning time'], badge: null, featured: false, coverColor: 'linear-gradient(145deg, #0B5FFF, #083B9D)'
     },
